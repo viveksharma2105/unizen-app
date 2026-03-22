@@ -91,7 +91,7 @@ UNIZEN Application Modules
 
 | Dashboard | Internal Marks | Attendance Overview |
 |---|---|---|
-| ![Dashboard](./assets/dashboard.jpg) | ![Internal Marks](./assets/internal-marks.png) | ![Attendance Overview](./assets/attendance-overview.png) |
+| ![Dashboard](./assets/dashboard.jpg) | ![Internal Marks](./assets/internal-marks.jpg) | ![Attendance Overview](./assets/attendance-overview.jpg) |
 
 | Subject-wise Attendance | Timetable | Courses & Credits |
 |---|---|---|
